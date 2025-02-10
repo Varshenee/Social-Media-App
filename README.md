@@ -1,7 +1,47 @@
 # Social-Media-App
 
-Aim: To make a social media app that allows user to login, sign-up, view posts by other people, post text or images, and have a profile. Firebase integration should be done.
+📌 Aim
 
-Technical requirements: Used flutter in android studio and tried firebase integration for database.
+To develop a social media app that allows users to:
 
-Result: Succesfully made an app that allows user login and sign-up. The theme of the app is pink hearts. The app has a home feed that has all the posts visible to the user. The user can scroll and view the posts. The profile icon is in the home page that leads to the profile page when clicked on. The profile page allows the user to add bio, profile picture and view the posts made by the user. The user can click the post button on the home page and post texts(image picker didn't work). The final app lacks firebase integration due to several dependecy errors and version errors. Those are yet to be resolved.
+Sign up and log in
+
+View posts by other users
+
+Post text or images
+
+Have a profile with a bio and profile picture
+
+Scroll through a home feed
+
+🛠️ Tech Stack
+
+Flutter (Developed in Android Studio)
+
+Firebase (Planned for database integration but not fully implemented due to dependency errors)
+
+🚀 Features
+
+User Authentication: Users can sign up and log in.
+
+Home Feed: A scrollable feed where all posts are visible.
+
+Post Creation: Users can create posts with text (image upload is not functional due to issues with image_picker).
+
+Profile Page: Displays user information, bio, and past posts.
+
+Theming: The app follows a pink hearts theme.
+
+⚠️ Current Limitations
+
+Firebase integration is incomplete due to dependency and version errors.
+
+Image uploading via image_picker is not working.
+
+📌 Next Steps
+
+Fix Firebase dependency issues to enable data persistence.
+
+Resolve image_picker issues for image uploads.
+
+Implement additional features like comments, likes, and notifications.
