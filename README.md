@@ -2,17 +2,17 @@
 
 📌 Aim
 
-To develop a social media app that allows users to:
+->To develop a social media app that allows users to:
 
-Sign up and log in
+->Sign up and log in
 
-View posts by other users
+->View posts by other users
 
-Post text or images
+->Post text or images
 
-Have a profile with a bio and profile picture
+->Have a profile with a bio and profile picture
 
-Scroll through a home feed
+->Scroll through a home feed
 
 🛠️ Tech Stack
 
